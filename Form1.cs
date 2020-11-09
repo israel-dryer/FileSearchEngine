@@ -125,6 +125,9 @@ namespace FileSearchEngine
             return directoryList;
         }
 
+        private void ResultsRichText_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
